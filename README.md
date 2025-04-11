@@ -14,3 +14,5 @@ Features include:
 <br>
 <br>
 Note: The complete code is available in one single file "Facial_recognition_based_ATM.py" clone or copy the code from it to use it.
+<br>
+Make sure to pip install CV2 if you dont have it on your local system
